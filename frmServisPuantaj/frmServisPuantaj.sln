@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmServisPuantaj", "frmServisPuantaj\frmServisPuantaj.csproj", "{5B5AA4AE-9BB5-406B-9F0A-6194D6A94B83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5AA4AE-9BB5-406B-9F0A-6194D6A94B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5AA4AE-9BB5-406B-9F0A-6194D6A94B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5AA4AE-9BB5-406B-9F0A-6194D6A94B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5AA4AE-9BB5-406B-9F0A-6194D6A94B83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FCB4149-B8D7-480F-9C9E-DB85F23E8F50}
+	EndGlobalSection
+EndGlobal
